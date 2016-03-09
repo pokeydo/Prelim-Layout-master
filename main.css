@@ -1,0 +1,42 @@
+h1{
+  text-align: center;
+  color: #ffffff;
+  font-family: Impact;
+  font-size: 100px;
+}
+
+.circular {
+	margin: auto;
+  width: 250px;
+	height: 250px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(Images/Profile-Picture.png) no-repeat;
+
+  }
+
+  body {
+      background-image: url("Images/W0lVpsH.jpg");
+      background-repeat:repeat-y;
+      background-size: 100%;
+  }
+
+  .container { position:relative; padding:200px 0 0 400px; }
+  #sidebar {
+      border:15px solid #baff00;
+      position:absolute;
+      top:0; bottom:0; left:50px;
+      width:10%;
+      background-color: #FFF;
+  }
+
+  #header { border:15px solid #baff00; width:85%; height:200px;
+      margin:5px 0 15px 0; background-color:#fff;)
+  }
+  #content { border:15px solid #baff00; width:85%; height:1000px;
+      margin:5px 0 15px 0; background-color:#fff;
+  }
+  #footer { border:15px solid #baff00; width:85%; height:300px;
+      margin:5px 0 15px 0; background-color:#fff;
+  }
